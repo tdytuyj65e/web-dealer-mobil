@@ -1,0 +1,13 @@
+/* Patterned background */
+
+body {
+    background-color: #f0f4f8;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy533bobm9zZXNjaGFkZz4....');
+    /* Ini hanya contoh SVG */
+    background-repeat: repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
